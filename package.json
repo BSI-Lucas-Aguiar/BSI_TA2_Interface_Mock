@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "Nenhum teste encontrado"
   },
   "repository": {
     "type": "git",

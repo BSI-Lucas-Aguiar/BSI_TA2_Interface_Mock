@@ -1,4 +1,4 @@
-import { Venda_Controller } from "../controller/Venda_Controller";
+import { Venda_Controller } from "../controller/venda_Controller"
 import { VendaRepository } from "../repository/venda_repository";
 import { VendasUseCase } from "../use_cases/venda_usecase";
 
